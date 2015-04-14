@@ -8,8 +8,8 @@ import argparse
 import random
 
 import nengo
-import nengo.spaopt as spa
-from nengo.spaopt import CircularConvolution
+import spaopt as spa
+from spaopt import CircularConvolution
 import numpy as np
 
 parser = argparse.ArgumentParser(description="n-back model")
