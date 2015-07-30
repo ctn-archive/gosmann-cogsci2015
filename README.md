@@ -12,8 +12,7 @@ Spiking Neural Model of the n-Back Task" and associated scripts.
 
 ## Requirements
 
-The code has been run with Python 2.7. Python 3 might also work, but is
-untested. The following Python packages are required to run the model:
+The code has been run with Python 2.7; Python 3 does not work. The following Python packages are required to run the model:
 
 * [Nengo 2.0.1](https://github.com/nengo/nengo/releases/tag/v2.0.1)
 * [NumPy](http://www.numpy.org/)
